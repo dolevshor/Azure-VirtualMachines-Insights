@@ -195,7 +195,7 @@ Follow this steps to use the Workbook:
 <img src="https://user-images.githubusercontent.com/69309933/172807673-dfc63741-0c40-47c0-ab58-d39309b06e69.png" width="700"> 
 
 - Select the _'Gallery Template'_ (step 1)
-- Replace the JSON code with this JSON code [Azure Virtual Machines Insights JSON](https://github.com/dolevshor/Azure-VirtualMachines-Insights/blob/main/Workbook/Azure%20Virtual%20Machines%20Insights.workbook) (step 2)
+- Replace the JSON code with this JSON code [Azure Virtual Machines Insights JSON](https://github.com/dolevshor/Azure-VirtualMachines-Insights/blob/main/Wokbook/Azure%20Virtual%20Machines%20Insights.workbook) (step 2)
 
   - We use the _Gallery Templaty type_ (step 1), so we need to use the _'Azure Virtual Machines Insights.workbook'_ and not the _'Azure Virtual Machines Insights.json'_.
 - Click _'Apply'_ (step 3)
